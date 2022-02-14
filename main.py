@@ -150,7 +150,6 @@ class Game:
             if self.check_state(board):
                 game_on = False
 
-
 my_game = Game()
 my_game.play()
 
